@@ -1,4 +1,4 @@
-# Takahiko Tozawa
+# Golgo
 
 I build and operate multi-agent workflows with Codex, Claude Code, Herdr, and [agmsg](https://github.com/fujibee/agmsg).
 
